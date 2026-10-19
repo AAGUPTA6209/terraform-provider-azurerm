@@ -1,7 +1,7 @@
 // Copyright IBM Corp. 2014, 2025
 // SPDX-License-Identifier: MPL-2.0
 
-package hsm_test
+package dedicated_hardware_security_module_test
 
 import (
 	"context"
